@@ -1,0 +1,14 @@
+.git/**
+.github/**
+.vscode/**
+node_modules/**
+src/**
+test/**
+assets/**
+dist/test/**
+**/*.map
+scripts_prepare_assets.py
+PRODUCT.md
+tsconfig.json
+.gitignore
+el-batta-el-meshmeshia.vsix
